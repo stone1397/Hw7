@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Hw\\Hw7\\BroomStick\\Source\\BroomStick\\BroomStick.Build.cs",
+		"D:\\Hw\\Hw7\\BroomStick\\Source\\BroomStick.Target.cs",
+		"D:\\Hw\\Hw7\\BroomStick\\Source\\BroomStickEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

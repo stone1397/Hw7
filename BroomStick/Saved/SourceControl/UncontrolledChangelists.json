@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Hw/Hw7/BroomStick/Content/Maps/NewMap.umap",
+				"D:/Hw/Hw7/BroomStick/Content/Maps/MainLevel.umap",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BroomStick.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM_Alpha.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM_Base_Color.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM_Metallic.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM_Normal_DirectX.uasset",
+				"D:/Hw/Hw7/BroomStick/Content/Asset/BROOM_Roughness.uasset"
+			]
+		}
+	]
+}

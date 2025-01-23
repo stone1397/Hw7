@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\hw\\hw7\\broomstick\\source\\broomstick\\broomstick.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\hw\\hw7\\broomstick\\intermediate\\build\\win64\\x64\\broomstickeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\hw\\hw7\\broomstick\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\broomstick\\definitions.broomstick.h",
+            "d:\\hw\\hw7\\broomstick\\source\\broomstick\\broomstick.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

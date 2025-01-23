@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BroomStick.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BroomStick.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BroomStickEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BroomStick">
+      <UniqueIdentifier>{5752149E-A52A-32FC-B1DE-D2C560C92866}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BroomStick\BroomStick.Build.cs">
+      <Filter>Source\BroomStick</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BroomStick\BroomStick.cpp">
+      <Filter>Source\BroomStick</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BroomStick\BroomStick.h">
+      <Filter>Source\BroomStick</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
